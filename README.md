@@ -1,8 +1,7 @@
-
 License  
 -------
-Copyright 2012, Michael A. Jackson
-Attribution 3.0 Unported (CC BY 3.0)
+Copyright 2012, Michael A. Jackson  
+Attribution 3.0 Unported (CC BY 3.0)  
 http://creativecommons.org/licenses/by/3.0/
 
 Summary

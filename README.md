@@ -9,4 +9,4 @@ Summary
 Two ArcToolbox tools, one for tables and one for feature classes. Create a new dataset with the order of fields sorted. There is an additional option to put a subset of fields at the front. Uses arcpy (ArcGIS 10.0 or above). 
 
 ArcGIS Resource Center:  
-http://resources.arcgis.com/gallery/file/geoprocessing/details?entryID=977F8B9B-1422-2418-A012-7EFD1F2EDB16https://github.com/majgis/arcpy_SortFieldOrder
+http://resources.arcgis.com/gallery/file/geoprocessing/details?entryID=977F8B9B-1422-2418-A012-7EFD1F2EDB16
